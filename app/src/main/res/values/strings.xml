@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Find Stations</string>
+    <string name="action_settings">Settings</string>
+    <string name="startText">Find Stations</string>
+    <string name="exitText">Exit</string>
+    <string name="ipAddressPrompt">IP Address of Raspberry Pi:</string>
+</resources>
